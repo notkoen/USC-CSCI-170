@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.sp": "sourcepawn",
+        "*.vmf": "CSGO cfg",
+        "*.cfg": "CSGO cfg",
+        "iostream": "cpp"
+    }
+}
